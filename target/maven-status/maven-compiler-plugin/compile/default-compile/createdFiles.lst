@@ -1,0 +1,8 @@
+com\myorg\talenthire\pojo\appexception\model\GenericAppExpMsg.class
+com\myorg\talenthire\pojo\model\Employee.class
+com\myorg\talenthire\pojo\appexception\DBException.class
+com\myorg\talenthire\pojo\model\Department.class
+com\myorg\talenthire\pojo\model\HRPortalCredential.class
+com\myorg\talenthire\pojo\model\Interview.class
+com\myorg\talenthire\pojo\model\Candidate.class
+com\myorg\talenthire\pojo\model\Project.class
